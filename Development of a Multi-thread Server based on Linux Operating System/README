@@ -1,0 +1,4 @@
+This project is to develop a multi-thread server, which can respond to several requests at the same time. 
+The concrete method is to create threads by calling operating system API ( Application Programming Interface). 
+The 3 users send message “Hi, God!” to the server respectively, and display the answer after receiving the response from the server. 
+The system is tested with TCP and UDP protocol, with the user-defined port number.
