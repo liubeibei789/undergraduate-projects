@@ -1,0 +1,9 @@
+It is a tricky problem to measure electricity consumption in factories and plants. 
+The difficulty lies in the high-intensive and complicated interference in the environment. 
+Measuring through the common communication system will generate a great error. 
+A power line carrier communication system is designed for the purpose of high-reliability data transmission,
+under low signal to noise ratio (SNR) condition. 
+Power-line communications system operate by adding a modulated carrier signal to the wiring system. 
+Different types of power-line communication use different frequency bands. 
+The system is based on Code Division Multiple Access (CDMA), adopting the spread spectrum technology. 
+The ultimate hardware implementation is a Plug-and-Play device applied to the wire plug.
