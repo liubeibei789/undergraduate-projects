@@ -1,9 +1,0 @@
-In the collection of images, there may exist some deviations between two images. 
-If we find the lost points and false point to conduct the image matching, 
-the pressure of procession and storage will be largely released.
-The key problem for image matching is to figure out the transform regulation for the two images. 
-This paper proposes a method of constructing congruent triangles in finding match points. 
-The object is to include as many points as possible in accordance with this regulation, 
-finding out most of the lost points and false points. 
-Furthermore, concept “feature point set” is introduced to value the extent of matching. 
-In the end, the algorithm is validated and assessed. Suggestions are proposed.
