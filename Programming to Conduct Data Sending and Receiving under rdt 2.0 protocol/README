@@ -1,0 +1,2 @@
+Rdt (reliable data transfer) is a reliable data transfer protocol conducted on an unreliable channel. 
+This project simulates the process with socket programming.
